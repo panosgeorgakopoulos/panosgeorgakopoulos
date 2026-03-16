@@ -73,7 +73,7 @@ A complete Java web application demonstrating:
 
 ---
 
-### ⚓ JavaBasicsWeb
+### ⚓ Healthcare Management System
 **Tech:** Java, Maven, Tomcat, MySQL  
 **Description:**  
 Educational yet production-structured backend project focusing on:
@@ -82,7 +82,7 @@ Educational yet production-structured backend project focusing on:
 - Request/response lifecycle  
 - Proper project packaging  
 
-🔗 Repo: https://github.com/panosgeorgakopoulos/JavaBasicsWeb
+🔗 Repo: https://github.com/panosgeorgakopoulos/Healthcare-Management-System
 
 ---
 
